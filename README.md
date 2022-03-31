@@ -2,7 +2,7 @@
  
 - 🔭 Estudando HTML - CSS -JAVASCRIPT-JAVA 
 - 👯 Estagiario Unimed-BH (GSTI)
-- 😄 Pronouns: Ele/dele
+
  
   <div align="center">
   <a href="https://github.com/Yuryh1">
