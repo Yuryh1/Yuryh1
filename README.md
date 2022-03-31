@@ -1,7 +1,7 @@
 ### Olá, Eu sou  o Yury  👋
  
 - 🔭 Estudando HTML - CSS -JAVASCRIPT-JAVA 
-- 👯 Estagio Unimed-BH
+- 👯 Estagiario Unimed-BH (GSTI)
 - 😄 Pronouns: Ele/dele
  
   <div align="center">
