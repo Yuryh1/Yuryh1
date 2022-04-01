@@ -1,6 +1,11 @@
 ### Olá, Eu sou  o Yury  👋
  
-- 🔭 Estudando HTML - CSS -JAVASCRIPT-JAVA 
+- 🔭 Estudando HTML 
+- 🔭 CSS 
+- 🔭 JAVASCRIPT
+- 🔭 JAVA
+- 🔭 SQL
+
 - 👯 Estagiario Unimed-BH (GSTI)
 
  
