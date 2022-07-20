@@ -1,6 +1,7 @@
 ### Olá, Eu sou  o Yury  👋
  
-- 🔭 Estudando HTML 
+- 🔭 Estudando 
+- 🔭  HTML 
 - 🔭 CSS 
 - 🔭 JAVASCRIPT
 - 🔭 JAVA
