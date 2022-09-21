@@ -1,13 +1,11 @@
 ### Olá, Eu sou  o Yury  👋
  
-- 🔭 Estudando 
-- 🔭  HTML 
-- 🔭 CSS 
-- 🔭 JAVASCRIPT
-- 🔭 JAVA
-- 🔭 SQL
-
 - 👯 Estagiario Unimed-BH (GSTI)
+ 
+- 📒 Cursando Analise e Desenvolvimento de Sistemas na Newton Paiva
+
+- 💻Tecnologias: HTML/JAVASCRIPT/CSS/JAVA/MySQL/POWER BI/UI
+
 
  
   <div align="center">
