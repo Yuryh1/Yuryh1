@@ -1,6 +1,6 @@
 ### Olá, Eu sou  o Yury  👋
  
-- 👯 Estagiario Unimed-BH (GSTI)
+- 👯 VDS tecnologia
  
 - 📒 Cursando Analise e Desenvolvimento de Sistemas na Newton Paiva
 
