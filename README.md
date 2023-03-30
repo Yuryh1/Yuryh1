@@ -2,7 +2,7 @@
  
 - 👯 VDS tecnologia
  
-- 📒 Cursando Analise e Desenvolvimento de Sistemas na Newton Paiva
+- 📒 Cursando Analise e Desenvolvimento de Sistemas
 
 - 💻Tecnologias: HTML/CSS/JAVASCRIPT/JAVA/SQL/FIGMA
 
