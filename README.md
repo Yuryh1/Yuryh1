@@ -2,9 +2,9 @@
  
 - 👯 Nucont
  
-- 📒 Cursando Analise e Desenvolvimento de Sistemas
+- 📒 Analise e Desenvolvimento de Sistemas
 
-- 💻Tecnologias: HTML/CSS/JAVASCRIPT/JAVA/SQL/FIGMA
+- 💻Tecnologias: Javascript/Typescript/nodejs/mongodb/aws
 
 
     
