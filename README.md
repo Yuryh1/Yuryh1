@@ -1,6 +1,6 @@
 ### Olá, Eu sou  o Yury  👋
  
-- 👯 VDS tecnologia
+- 👯 Nucont
  
 - 📒 Cursando Analise e Desenvolvimento de Sistemas
 
